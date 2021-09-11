@@ -1,2 +1,2 @@
-# Fault_Detection
+# Fault Detection in Wind Turbine
  
